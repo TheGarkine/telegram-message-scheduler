@@ -1,0 +1,11 @@
+token: 'ddddddddddABCDEFGHIJKLMNOPQRSTUVWX'
+default_time: 10:00
+password: "1234"
+channels:
+  - Channel1
+  - Channel2
+
+messages:
+  - id: Message1
+    text: "Hello, this is a message for Message 1. *This supports Markdown!*"
+    title: "Title for Message 1"
